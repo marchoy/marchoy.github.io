@@ -1,0 +1,57 @@
+html, body {
+	height: 100%;
+}
+
+body {
+	background: Tomato; /* for old browsers */
+	background: linear-gradient(to right, #0072ff, #00c6ff);
+	color: white;
+	font: 14px/20px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+	text-rendering: optimizeLegibility;
+}
+
+a {
+	color: #0072ff;
+}
+
+a:hover, a:visited {
+	color: #00c6ff;
+}
+
+
+
+h1 {
+	font: 35px/50px 'Roboto', sans-serif;
+}
+
+h1, p, hr, ul {
+	margin: 0 0 10px;
+}
+
+.about {
+	margin: 50px;
+    border-radius: 25px;
+	background: white;
+	max-width: 300px;
+	padding: 50px 50px 50px 50px;
+	position: fixed;
+	color: #898f9c;
+}
+
+.contact {
+	list-style-type: none;
+	padding: 0;
+}
+
+.contact > li {
+	display: inline;
+	margin-right: 40px;
+}
+
+hr {
+	border: 0;
+	border-top: 1px solid #eee;
+	height: 0;
+}
