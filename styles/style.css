@@ -20,8 +20,6 @@ a:hover, a:visited {
 	color: #00c6ff;
 }
 
-
-
 h1 {
 	font: 35px/50px 'Roboto', sans-serif;
 }
@@ -31,8 +29,8 @@ h1, p, hr, ul {
 }
 
 .about {
-	margin: 50px;
-    border-radius: 25px;
+	margin: 5%;
+	border-radius: 25px;
 	background: white;
 	max-width: 300px;
 	padding: 50px 50px 50px 50px;
