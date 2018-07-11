@@ -3,8 +3,7 @@ html, body {
 }
 
 body {
-	background: Tomato; /* for old browsers */
-	background: linear-gradient(to right, #0072ff, #00c6ff);
+	background: white;
 	color: white;
 	font: 14px/20px 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	margin: 0;
