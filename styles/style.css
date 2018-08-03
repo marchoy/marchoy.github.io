@@ -28,16 +28,16 @@ h1, p, hr, ul {
 }
 
 .about {
-	margin: 5%;
+	margin: auto;
 	border-radius: 25px;
 	background: white;
-	max-width: 300px;
-	padding: 50px 50px 50px 50px;
+	max-width: 500px;
+	padding: 30px;
 	position: fixed;
 	color: #898f9c;
 }
 
-.contact {
+.contact, .publications {
 	list-style-type: none;
 	padding: 0;
 }
