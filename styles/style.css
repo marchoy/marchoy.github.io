@@ -31,6 +31,16 @@ h1 {
 	}
 }
 
+@media screen and (max-width: 380px) {
+	h1 {
+		font-size: 18vw;
+	}
+
+	img#marc {
+		height: 23vw;
+	}
+}
+
 a {
 	color: inherit;
 	text-decoration: none;
